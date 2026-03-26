@@ -1,0 +1,159 @@
+--- 1. [MODALITY] | 814.png
+Q: What MRI sequence is shown?
+   A. Diffusion-weighted imaging
+   B. T2-weighted
+   C. FLAIR
+   D. T1-weighted MRI with contrast
+   E. None of the above <--
+
+--- 2. [SPREAD] | 140.jpg
+Q: What best describes the lesion spread pattern?
+   A. Multifocal lesions
+   B. Diffuse hemispheric involvement
+   C. Diffuse infiltrative involvement
+   D. No lesion identified
+   E. None of the above <--
+
+--- 3. [MODALITY] | 31.png
+Q: What is the MRI sequence shown?
+   A. FLAIR
+   B. DWI
+   C. T2 <--
+   D. T1
+   E. None of the above
+
+--- 4. [MODALITY] | 954.jpg
+Q: What is the imaging modality and sequence shown?
+   A. CT head without contrast
+   B. T1-weighted MRI <--
+   C. T2-weighted MRI
+   D. FLAIR MRI
+   E. None of the above
+
+--- 5. [SHAPE] | 352.jpg
+Q: How would you best describe the lesion's shape?
+   A. Round
+   B. Irregular
+   C. Multinodular
+   D. Oval
+   E. None of the above <--
+
+--- 6. [MODALITY] | 317.png
+Q: What is the MRI sequence used in this image?
+   A. Diffusion-weighted imaging
+   B. T2 <--
+   C. FLAIR
+   D. T1
+   E. None of the above
+
+--- 7. [DIAGNOSIS] | 288.png
+Q: What is the most likely diagnosis?
+   A. abscess
+   B. lymphoma
+   C. glioma <--
+   D. metastasis
+   E. None of the above
+
+--- 8. [MODALITY] | 176.jpeg
+Q: What imaging modality and sequence is shown?
+   A. T1
+   B. FLAIR
+   C. CT
+   D. T2 <--
+   E. None of the above
+
+--- 9. [DIAGNOSIS] | 947.jpg
+Q: What is the most likely diagnosis?
+   A. metastasis
+   B. ependymoma <--
+   C. lymphoma
+   D. abscess
+   E. None of the above
+
+--- 10. [LOCATION] | 131.jpg
+Q: Where is the lesion predominantly located?
+   A. Left hemisphere
+   B. Center-right region <--
+   C. Posterior fossa
+   D. Midline
+   E. None of the above
+
+--- 11. [MODALITY] | 873.jpeg
+Q: What is the MRI sequence used in this study?
+   A. T1-weighted with contrast <--
+   B. T2-weighted
+   C. Diffusion-weighted imaging
+   D. FLAIR
+   E. None of the above
+
+--- 12. [MODALITY] | 952.jpg
+Q: What is the MRI sequence used in this study?
+   A. FLAIR
+   B. T1
+   C. T1 with contrast
+   D. T2 <--
+   E. None of the above
+
+--- 13. [MODALITY] | 688.jpeg
+Q: What is the imaging modality and sequence shown?
+   A. FLAIR MRI
+   B. T2-weighted MRI
+   C. CT without contrast
+   D. T1-weighted MRI <--
+   E. None of the above
+
+--- 14. [DIAGNOSIS] | 111.jpeg
+Q: What is the most likely diagnosis?
+   A. metastasis
+   B. glioblastoma
+   C. ependymoma <--
+   D. lymphoma
+   E. None of the above
+
+--- 15. [DIAGNOSIS] | 747.jpeg
+Q: What is the most likely diagnosis?
+   A. glioma
+   B. embryonal <--
+   C. meningioma
+   D. metastasis
+   E. None of the above
+
+--- 16. [LOCATION] | 530.jpg
+Q: Where is the primary lesion located on this image?
+   A. Upper-center region <--
+   B. Lower-center region
+   C. Right peripheral region
+   D. Left peripheral region
+   E. None of the above
+
+--- 17. [DIAGNOSIS] | 40.jpg
+Q: What is the most likely diagnosis?
+   A. craniopharyngioma
+   B. neuronal_tumor
+   C. dural_metastasis
+   D. Rathke cleft cyst
+   E. None of the above <--
+
+--- 18. [MODALITY] | 35.jpg
+Q: What is the MRI sequence shown in this study?
+   A. FLAIR
+   B. T1
+   C. Diffusion-weighted MRI
+   D. DWI
+   E. None of the above <--
+
+--- 19. [SIZE] | 120.png
+Q: What is the overall lesion size category?
+   A. Not measurable
+   B. Small
+   C. Medium
+   D. Large/Extensive <--
+   E. None of the above
+
+--- 20. [MODALITY] | 282.png
+Q: What is the MRI sequence used in this image?
+   A. T2
+   B. T1 <--
+   C. FLAIR
+   D. Diffusion-weighted imaging
+   E. None of the above

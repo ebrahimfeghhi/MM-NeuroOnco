@@ -20,7 +20,7 @@ from collections import defaultdict
 import torch
 from PIL import Image
 from tqdm import tqdm
-from transformers import AutoProcessor, AutoModelForVision2Seq
+from transformers import AutoProcessor, Qwen3VLForConditionalGeneration as AutoModelForVision2Seq
 
 
 def extract_letter(decoded: str) -> str:
@@ -151,6 +151,14 @@ def main():
     for item in tqdm(data, desc="Inference"):
         img_rel = item.get("image_path", "")
         img_abs = os.path.join(args.data_root, img_rel)
+
+        # Fallback: try other extensions if the exact path doesn't exist
+        if not os.path.exists(img_abs):
+            stem = os.path.splitext(img_abs)[0]
+            for ext in (".png", ".jpg", ".jpeg"):
+                if os.path.exists(stem + ext):
+                    img_abs = stem + ext
+                    break
 
         if not os.path.exists(img_abs):
             pred_f.write(json.dumps(

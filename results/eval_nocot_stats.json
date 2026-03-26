@@ -1,0 +1,42 @@
+{
+  "stats": {
+    "overall": {
+      "correct": 1334,
+      "total": 3190
+    },
+    "4_options": {
+      "correct": 43,
+      "total": 116
+    },
+    "5_options": {
+      "correct": 1291,
+      "total": 3074
+    },
+    "by_type": {
+      "diagnosis": {
+        "correct": 399,
+        "total": 1000
+      },
+      "modality": {
+        "correct": 450,
+        "total": 962
+      },
+      "size": {
+        "correct": 128,
+        "total": 307
+      },
+      "shape": {
+        "correct": 82,
+        "total": 307
+      },
+      "spread": {
+        "correct": 108,
+        "total": 307
+      },
+      "location": {
+        "correct": 167,
+        "total": 307
+      }
+    }
+  }
+}

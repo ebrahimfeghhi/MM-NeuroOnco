@@ -1,0 +1,650 @@
+Benchmark VQA - All Unique Options by Question Type
+====================================================
+
+DIAGNOSIS (60 unique options)
+----------------------------------------
+  - Abnormal
+  - abscess
+  - Abscess
+  - anaplastic oligodendroglioma
+  - astrocytoma
+  - atypical_teratoid_rhabdoid_tumor
+  - brain_metastasis
+  - brainstem cavernous malformation
+  - brainstem glioma
+  - brainstem metastasis
+  - brainstem_glioma
+  - brainstem_metastasis
+  - central_neurocytoma
+  - cerebellar_pilocytic_astrocytoma
+  - choroid_plexus_carcinoma
+  - choroid_plexus_papilloma
+  - craniopharyngioma
+  - Craniopharyngioma
+  - DNET
+  - dural metastasis
+  - Dural Metastasis
+  - Dural metastasis
+  - dural_metastasis
+  - dysembryoplastic_neuroepithelial_tumor
+  - embryonal
+  - ependymal_metastasis
+  - ependymoma
+  - Ganglioglioma
+  - ganglioglioma
+  - glioblastoma
+  - Glioma
+  - glioma
+  - Healthy
+  - hemangioblastoma
+  - hemangiopericytoma
+  - Hemangiopericytoma
+  - high_grade_glioma
+  - lymphoma
+  - Lymphoma
+  - medulloblastoma
+  - meningioma
+  - Meningioma
+  - Metastasis
+  - metastasis
+  - neuronal_tumor
+  - None of the above
+  - oligodendroglioma
+  - pilocytic astrocytoma
+  - pilocytic_astrocytoma
+  - Pituitary
+  - pituitary
+  - Pituitary tumor
+  - pituitary_tumor
+  - pontine infarct
+  - primary CNS lymphoma
+  - primary_CNS_lymphoma
+  - Rathke cleft cyst
+  - rathke_cleft_cyst
+  - schwannoma
+  - Schwannoma
+
+MODALITY (41 unique options)
+----------------------------------------
+  - CT
+  - CT brain without contrast
+  - CT head without contrast
+  - CT with contrast
+  - CT without contrast
+  - CT_without_contrast
+  - Diffusion
+  - Diffusion-weighted
+  - Diffusion-weighted imaging
+  - Diffusion-weighted MRI
+  - DWI
+  - FLAIR
+  - FLAIR MRI
+  - MRI brain FLAIR
+  - MRI brain T1-weighted
+  - MRI brain T2-weighted
+  - Non-contrast CT
+  - None of the above
+  - T1
+  - T1 post-contrast
+  - T1 with contrast
+  - T1 without contrast
+  - T1-weighted
+  - T1-weighted MRI
+  - T1-weighted MRI with contrast
+  - T1-weighted post-contrast
+  - T1-weighted post-contrast (T1_CE)
+  - T1-weighted post-contrast MRI
+  - T1-weighted pre-contrast
+  - T1-weighted with contrast
+  - T1-weighted without contrast
+  - T1_CE
+  - T1_weighted_MRI_with_contrast
+  - T1_weighted_MRI_without_contrast
+  - T1_weighted_noncontrast
+  - T2
+  - T2-weighted
+  - T2-weighted MRI
+  - T2_FLAIR
+  - T2_weighted
+  - T2_weighted_MRI
+
+SIZE (74 unique options)
+----------------------------------------
+  - 1 to 3 cm
+  - 1–3 cm
+  - 3 to 5 cm
+  - 3–5 cm
+  - 3–6 cm
+  - < 1 cm
+  - > 3 cm
+  - > 5 cm
+  - > 6 cm
+  - Between 1 cm and 3 cm
+  - Between 3 cm and 5 cm
+  - Cannot be determined from this image
+  - Diffuse
+  - Diffuse and infiltrative
+  - Diffuse infiltrative abnormality
+  - Diffuse infiltrative process
+  - Diffuse involvement
+  - Diffuse involvement of the hemisphere
+  - Diffuse/Infiltrative
+  - Diffuse/infiltrative
+  - Giant
+  - Greater than 5 cm
+  - Large
+  - Large (> 3 cm)
+  - Large and diffuse
+  - Large and focal
+  - Large and lobulated
+  - Large lesion
+  - Large mass lesion
+  - Large or extensive
+  - Large or multifocal
+  - Large/Extensive
+  - Large/Mass-forming
+  - Large/Mass-like
+  - Large/massive
+  - Large/Massive
+  - Larger than 3 cm
+  - Less than 1 cm
+  - Macrolesion 10 mm or larger
+  - Medium
+  - Medium (> 1 cm and ≤ 3 cm)
+  - Medium lesion
+  - Microlesion less than 10 mm
+  - Moderate
+  - Multifocal
+  - Multifocal lesions
+  - Multifocal, scattered
+  - Multiple scattered lesions
+  - No detectable lesion
+  - No lesion
+  - No lesion detected
+  - No lesion present
+  - No lesion seen
+  - No lesion visible
+  - No measurable lesion
+  - No Visible Lesion
+  - No visible lesion
+  - None of the above
+  - Not applicable
+  - Not measurable
+  - Not visible
+  - Small
+  - Small (≤ 1 cm)
+  - Small and focal
+  - Small and focal lesion
+  - Small focal lesion
+  - Small lesion
+  - Small or focal
+  - Small/Focal
+  - Small/focal
+  - Smaller than 1 cm
+  - Too small to measure
+  - Very large
+  - Very small
+
+SHAPE (85 unique options)
+----------------------------------------
+  - Completely irregular without definable margins
+  - Diffuse
+  - Diffuse and ill-defined
+  - Diffuse and infiltrative
+  - Diffuse ill-defined thickening
+  - Diffuse infiltrative
+  - Diffuse poorly defined abnormality
+  - Diffuse without clear borders
+  - Diffuse without clear margins
+  - Diffuse/infiltrative
+  - Diffusely infiltrative
+  - Globular
+  - Gyriform cortical pattern
+  - Ill-defined
+  - Irregular
+  - Irregular ill-defined
+  - Irregular infiltrative
+  - Irregular linear
+  - Irregular or infiltrative
+  - Irregular or spiculated
+  - Irregular poorly defined
+  - Irregular punctate
+  - Irregular spiculated
+  - Irregular star-shaped
+  - Irregular stellate
+  - Irregular with spiculation
+  - Irregular/spiculated
+  - Irregular/Spiculated
+  - Lens-shaped
+  - Linear
+  - Linear band-like abnormality
+  - Linear or band-like
+  - Linear tract-like abnormality
+  - Lobulated
+  - Lobulated but well-circumscribed
+  - Lobulated mass
+  - Multilobulated
+  - Multilobulated but smooth
+  - Multiloculated
+  - Multinodular
+  - Multiple scattered small lesions
+  - No definable mass
+  - No definable shape
+  - No defined mass
+  - No defined shape
+  - No detectable lesion
+  - No discernible lesion
+  - No discernible mass
+  - No discrete lesion
+  - No discrete lesion visible
+  - No discrete mass
+  - No discrete mass visible
+  - No Discrete Shape
+  - No discrete shape
+  - No distinct lesion
+  - No distinct lesion margin
+  - No lesion
+  - No lesion detected
+  - No lesion seen
+  - No lesion visible
+  - No lesion visualized
+  - No visible lesion
+  - None of the above
+  - Oval
+  - Ovoid
+  - Ovoid and smooth
+  - Polygonal and well-circumscribed
+  - Punctate
+  - Ring-like
+  - Ring-like lesion
+  - Round
+  - Round and smooth
+  - Round or oval
+  - Round or ovoid
+  - Round or ovoid mass
+  - Round/Oval
+  - Round/oval
+  - Round/oval and smooth
+  - Round/Ovoid
+  - Round/ovoid
+  - Round/Ovoid and smooth
+  - Rounded
+  - Spherical
+  - Spiculated
+  - Well-circumscribed mass
+
+SPREAD (183 unique options)
+----------------------------------------
+  - Bilateral but not crossing midline
+  - Bilateral involvement
+  - Bilateral symmetric involvement
+  - Clustered in one focal area
+  - Confined to a single focal region
+  - Confined to the sella
+  - Confined to the sellar/suprasellar region
+  - Crosses the midline
+  - Crosses the midline via the corpus callosum
+  - Crossing midline or with CSF dissemination
+  - Crossing the midline
+  - Diffuse
+  - Diffuse bilateral involvement
+  - Diffuse hemispheric involvement
+  - Diffuse infiltration
+  - Diffuse Infiltration
+  - Diffuse infiltration without a dominant core
+  - Diffuse infiltration without core
+  - Diffuse infiltrative
+  - Diffuse Infiltrative
+  - Diffuse infiltrative abnormality
+  - Diffuse infiltrative disease
+  - Diffuse Infiltrative Involvement
+  - Diffuse infiltrative involvement
+  - Diffuse infiltrative involvement of a hemisphere
+  - Diffuse infiltrative involvement of the entire brain
+  - Diffuse infiltrative involvement of the entire hemisphere
+  - Diffuse infiltrative involvement of white matter tracts
+  - Diffuse infiltrative involvement without a core
+  - Diffuse infiltrative pattern
+  - Diffuse Infiltrative Process
+  - Diffuse infiltrative process
+  - Diffuse infiltrative process without a core
+  - Diffuse infiltrative spread
+  - Diffuse infiltrative without a core
+  - Diffuse infiltrative without core
+  - Diffuse involvement
+  - Diffuse involvement of a large region
+  - Diffuse involvement of most of the brain parenchyma
+  - Diffuse involvement of one cerebral hemisphere
+  - Diffuse leptomeningeal
+  - Diffuse leptomeningeal involvement
+  - Diffuse leptomeningeal spread
+  - Diffuse non-mass-like involvement
+  - Diffuse non-masslike involvement
+  - Diffuse parenchymal infiltration
+  - Diffuse without a core
+  - Diffuse without focal lesion
+  - Diffuse without focal lesions
+  - Diffuse, infiltrative
+  - Diffusely infiltrative
+  - Dominant core with additional satellite foci
+  - Dominant core with satellite foci
+  - Dominant core with satellite lesions
+  - Dominant Core with Satellites
+  - Dominant core with satellites
+  - Evidence of CSF or leptomeningeal spread
+  - Evidence of leptomeningeal dissemination
+  - Evidence of ventricular or CSF dissemination
+  - Extra-axial with mass effect on adjacent brain
+  - Focal
+  - Focal and well circumscribed
+  - Focal and well-circumscribed
+  - Focal lesion
+  - Focal lesion without evident spread
+  - Focal solitary mass
+  - Focal well-circumscribed
+  - Focal without evident spread
+  - Focal without spread
+  - Focal, single lesion
+  - Focal, well-circumscribed
+  - Focal, well-circumscribed mass
+  - Focal, well-circumscribed nodule
+  - Intra-axial with diffuse infiltrative growth
+  - Intraventricular spread
+  - Isolated lesion in the posterior fossa
+  - Isolated lesion in the ventricular system
+  - Leptomeningeal
+  - Leptomeningeal dissemination
+  - Leptomeningeal Dissemination
+  - Leptomeningeal dissemination along the neuraxis
+  - Leptomeningeal or CSF dissemination
+  - Leptomeningeal spread
+  - Leptomeningeal Spread
+  - Leptomeningeal spread along the spinal axis
+  - Local extension into immediately adjacent structures
+  - Local invasion into adjacent brain
+  - Local parenchymal invasion only
+  - Localized extra-axial mass without distant spread
+  - Localized lesion without obvious distant intracranial spread
+  - Localized mass
+  - Localized mass without parenchymal invasion
+  - Localized to one region
+  - Localized without spread
+  - Mild mass effect without midline shift
+  - Multifocal
+  - Multifocal but unilateral
+  - Multifocal discontinuous lesions
+  - Multifocal discrete lesions
+  - Multifocal disease within the brain
+  - Multifocal in non-contiguous regions
+  - Multifocal in noncontiguous regions
+  - Multifocal Lesions
+  - Multifocal lesions
+  - Multifocal lesions in both hemispheres
+  - Multifocal lesions in different lobes
+  - Multifocal lesions in separate brain regions
+  - Multifocal lesions in separate lobes
+  - Multifocal lesions involving multiple lobes
+  - Multifocal lesions without a dominant mass
+  - Multifocal non-contiguous lesions
+  - Multifocal non-dominant lesions
+  - Multifocal noncontiguous
+  - Multifocal noncontiguous lesions
+  - Multifocal widely separated lesions
+  - Multifocal within the same hemisphere
+  - Multifocal, non-contiguous
+  - Multifocal, noncontiguous
+  - Multifocal, noncontiguous lesions
+  - Multifocal, noncontiguous lesions in separate lobes
+  - Multifocal, separate lesions
+  - Multifocal, separate lobes
+  - Multifocal, widely separate lesions
+  - Multifocal, widely separated
+  - Multifocal, widely separated foci
+  - Multifocal, widely separated lesions
+  - Multiple bilateral lesions
+  - Multiple discrete lesions
+  - Multiple discrete lesions without a dominant focus
+  - Multiple focal lesions
+  - Multiple Lesions
+  - Multiple lesions
+  - Multiple lesions in one hemisphere
+  - Multiple scattered lesions
+  - Multiple separate lesions
+  - No abnormal involvement
+  - No abnormal lesion
+  - No abnormal lesion spread
+  - No abnormal spread
+  - No abnormal spread pattern
+  - No abnormality
+  - No detectable lesion
+  - No Lesion
+  - No lesion
+  - No lesion detected
+  - No Lesion Detected
+  - No lesion evident
+  - No lesion identified
+  - No lesion present
+  - No Lesion Seen
+  - No lesion seen
+  - No lesion visible
+  - No mass effect or distortion
+  - No visible lesion
+  - No visible spread beyond the primary lesion
+  - None of the above
+  - Predominantly intraventricular with ependymal spread
+  - Scattered or multifocal
+  - Scattered or multifocal lesions
+  - Scattered/multifocal
+  - Scattered/Multifocal
+  - Sellar lesion with suprasellar extension
+  - Significant mass effect with midline shift
+  - Single focal lesion
+  - Single focal mass
+  - Single focal nodule
+  - Single localized focus
+  - Single well-circumscribed focus
+  - Single, well-circumscribed focus
+  - Single, well-defined focal mass
+  - Solitary and focal
+  - Solitary and well-circumscribed
+  - Solitary focal lesion
+  - Solitary Lesion
+  - Solitary lesion
+  - Solitary well-circumscribed mass
+  - Solitary well-defined focus
+  - Solitary, well-circumscribed
+  - Solitary, well-circumscribed focus
+  - Solitary, well-circumscribed mass
+  - Well circumscribed without spread
+  - Well-circumscribed solitary mass
+  - Well-circumscribed without spread
+
+LOCATION (187 unique options)
+----------------------------------------
+  - Along the skull base
+  - Along the skull base only
+  - Along the ventricular margins
+  - Basal ganglia
+  - Bifrontal Region
+  - Bilateral symmetric distribution
+  - Bilateral Symmetric Periventricular Region
+  - Brainstem
+  - Brainstem Region
+  - Cavernous sinus
+  - Center of the Image
+  - Center of the image
+  - Center-left region
+  - Center-Left Region
+  - Center-Left region
+  - Center-right region
+  - Center-Right region
+  - Center-Right Region
+  - Centered in the middle of the image
+  - Central Deep Region
+  - Central Midline Region
+  - Cerebellar hemisphere
+  - Cerebellopontine angle
+  - Cerebellopontine angle cistern
+  - Cerebellum
+  - Cerebral hemisphere
+  - Cerebral hemispheric white matter
+  - Cortical gray matter
+  - Deep gray nuclei
+  - Deep gray nuclei or periventricular
+  - Deep gray nuclei or periventricular region
+  - Diffuse throughout the image
+  - Dural-based extra-axial region
+  - Extra-axial along the dural surface
+  - Extra-axial, dural-based region
+  - Far left of the image
+  - Far right of the image
+  - Fourth ventricle region
+  - Frontal lobe
+  - Frontal lobe cortex
+  - Inferior edge
+  - Inferior edge of the image
+  - Inferior Margin
+  - Inferior margin of the image
+  - Infratentorial
+  - Intra-axial cerebral hemisphere
+  - Intra-axial cortical region
+  - Intra-axial within the cerebral hemisphere
+  - Intraventricular
+  - Intraventricular near the foramen of Monro
+  - Intraventricular region
+  - Intraventricular within the lateral ventricle
+  - Lateral ventricle region
+  - Left cerebral hemisphere
+  - Left edge of the image
+  - Left Hemisphere
+  - Left hemisphere
+  - Left Peripheral
+  - Left peripheral
+  - Left Peripheral Region
+  - Left peripheral region
+  - Left Periphery
+  - Left periphery
+  - Left periphery of the image
+  - Left Side of the Image
+  - Left side of the image
+  - Left Temporal Region
+  - Left temporal region
+  - Left-sided region
+  - Lower frontal region
+  - Lower region
+  - Lower-Center Region
+  - Lower-center region
+  - Lower-Center region
+  - Lower-left region
+  - Lower-Left Region
+  - Lower-Peripheral Region
+  - Lower-peripheral region
+  - Lower-Right Region
+  - Lower-right region
+  - Midline
+  - Midline Deep Structures
+  - Midline only
+  - Midline region
+  - Midline sellar region
+  - Near the convexity
+  - Near the cortical surface
+  - Near the midline and image center
+  - Near the Skull Base
+  - Near the skull base
+  - Near the superior edge of the image
+  - Near the vertex
+  - Near the vertex of the brain
+  - No definite lesion visible
+  - No detectable lesion
+  - No focal lesion
+  - No focal lesion identified
+  - No focal lesion visible
+  - No lesion
+  - No lesion detected
+  - No lesion identifiable
+  - No lesion identified
+  - No lesion present
+  - No Lesion Seen
+  - No lesion seen
+  - No Lesion Visible
+  - No lesion visible
+  - No lesion visualized
+  - No lesion visualized in the field of view
+  - No visible lesion
+  - None of the above
+  - Not visible in this image
+  - Outside the brain
+  - Parasagittal convexity
+  - Parasagittal dura
+  - Parasagittal region
+  - Parietal lobe
+  - Peripheral Cortex
+  - Peripheral edge of the image
+  - Peripheral left region
+  - Peripheral Left Region
+  - Peripheral margin of the image
+  - Peripheral right region
+  - Peripheral Right Region
+  - Peripheral-Left region
+  - Peripheral-left region
+  - Peripheral-Left Region
+  - Peripheral-Right Region
+  - Peripheral-Right region
+  - Peripheral-right region
+  - Periphery of the image
+  - Pineal region
+  - Pituitary and sellar region
+  - Pituitary region
+  - Posterior aspect
+  - Posterior aspect of the image
+  - Posterior edge
+  - Posterior edge of the image
+  - Posterior Fossa
+  - Posterior fossa
+  - Posterior fossa only
+  - Posterior fossa or cerebellum
+  - Posterior fossa or fourth ventricle region
+  - Posterior fossa region
+  - Posterior margin
+  - Posterior margin of the image
+  - Posterior part of the image
+  - Predominantly on the left side
+  - Predominantly on the right side
+  - Right cerebellar region
+  - Right edge of the image
+  - Right frontal region
+  - Right Frontal Region
+  - Right Hemisphere
+  - Right hemisphere
+  - Right peripheral
+  - Right Peripheral
+  - Right peripheral region
+  - Right Peripheral Region
+  - Right periphery
+  - Right Periphery
+  - Right periphery of the image
+  - Right side of the image
+  - Right Side of the Image
+  - Right-sided region
+  - Sellar and suprasellar region
+  - Sellar or parasellar region
+  - Sellar region
+  - Superior convexity
+  - Superior edge of the image
+  - Suprasellar region
+  - Supratentorial
+  - Supratentorial cerebral hemisphere
+  - Supratentorial cortex
+  - Supratentorial cortex or subcortical white matter
+  - Supratentorial cortical or subcortical
+  - Supratentorial white matter
+  - Temporal lobe
+  - Upper region
+  - Upper-center region
+  - Upper-Center Region
+  - Upper-left region
+  - Upper-Left Region
+  - Upper-peripheral region
+  - Upper-Right Region
+  - Ventricular or periventricular region
+  - Within the pituitary fossa

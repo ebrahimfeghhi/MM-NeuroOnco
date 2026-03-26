@@ -1,0 +1,19 @@
+NeuroOnco-GPT (No CoT) — Closed Benchmark Results
+====================================================
+
+Overall:    41.82%  (1334/3190)
+4-option:   37.07%  (43/116)
+5-option:   42.00%  (1291/3074)
+
+By Question Type
+------------------------------
+  diagnosis    39.90%  (399/1000)
+  location     54.40%  (167/307)
+  modality     46.78%  (450/962)
+  shape        26.71%  (82/307)
+  size         41.69%  (128/307)
+  spread       35.18%  (108/307)
+
+Model:     /home/ebrahim/MM-NeuroOnco/saves/neuroonco_gpt_nocot_merged
+Benchmark: Benchmark_VQA_Closed.json (1000 images, 3190 QA pairs)
+Training:  train_no_cot_closed.jsonl, 1 epoch, LoRA on Qwen3-VL-8B-Instruct
